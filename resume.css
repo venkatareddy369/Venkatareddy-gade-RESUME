@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.outer{
+    height: 842px;
+    width: 595px;
+    
+    margin: 0px auto;
+    text-align: center;
+
+}
+.outer h2{
+    font-size:26pt;
+    font-style: normal;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    text-align: center;
+
+}
+.outer div{
+    font-size: 9pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 9pt;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
